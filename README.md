@@ -16,7 +16,9 @@
 <h2> Script SQL database </h2>
 <p>cat epytodo.sql | sudo mysql -u root -p</p>
 
-![database](https://user-images.githubusercontent.com/91891487/182193746-a93e3248-be8d-4be4-bf0e-66cc13863ee5.png)
+<img src="https://user-images.githubusercontent.com/91891487/182193746-a93e3248-be8d-4be4-bf0e-66cc13863ee5.png" 
+     alt="sql_script"
+     height="600" witdth="500"/>
 
 <h2> Installation </h2>
 
