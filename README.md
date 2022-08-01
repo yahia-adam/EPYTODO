@@ -1,4 +1,6 @@
-<h1>EPYTODO</h1>
+
+<h1 align="center"> EPYTODO </h1>
+
 <p>build a Todo List</p>
 
 <h2>Description 🌄 </h2>
