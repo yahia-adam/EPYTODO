@@ -28,13 +28,11 @@
 
       npm start
  
- <h2>Example:</h2>
- 
  you can send requests by differents tools (Postman, curl or others...) to the routes rigth down
  
 ![request](https://user-images.githubusercontent.com/91891487/182203608-cf748238-aff7-409c-a234-dc1f818e6486.png)
 
- <h2>More détails:</h2>
+ <h2>More détails and Example:</h2>
 
  [B-WEB-200_Epytodo.pdf](https://github.com/Yahia-Abdchafee-ADAM/EPYTODO/files/9235734/B-WEB-200_Epytodo.pdf)
 
