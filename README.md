@@ -28,5 +28,7 @@
 
       npm start
  
- <h2>Example:</h2>
+ <h2>More details:</h2>
  
+ [B-WEB-200_Epytodo.pdf](https://github.com/Yahia-Abdchafee-ADAM/EPYTODO/files/9235734/B-WEB-200_Epytodo.pdf)
+
