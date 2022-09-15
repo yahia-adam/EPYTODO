@@ -23,7 +23,7 @@
 
 <h2> Installation </h2>
 
-      git clone git@github.com:Yahia-Abdchafee-ADAM/EPYTODO.git
+      git clone git@github.com:Yahia-Abdchafee-ADAM/EPYTODO.git EpyTodo
       cd EpyTodo
       npm install
       
