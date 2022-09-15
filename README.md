@@ -25,6 +25,7 @@
 
       git clone git@github.com:Yahia-Abdchafee-ADAM/EPYTODO.git EpyTodo
       cd EpyTodo
+      cat epytodo.sql | sudo mysql -u root -p
       npm install
       
 <h2>Start project</h2>
