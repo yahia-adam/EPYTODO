@@ -21,6 +21,20 @@
      alt="sql_script"
      height="600" witdth="500"/>
 
+<h2> Requirement </h2>
+
+   mysql database,<br>
+   A .env file<br>      
+      example of .env file:<br>
+
+       PORT=3000
+       MYSQL_DATABASE="epytodo"
+       MYSQL_HOST="localhost"
+       MYSQL_USER="root"
+       MYSQL_ROOT_PASSWORD="my_pasword"
+       SECRET="MY_SECRET"
+
+
 <h2> Installation </h2>
 
       git clone git@github.com:Yahia-Abdchafee-ADAM/EPYTODO.git EpyTodo
