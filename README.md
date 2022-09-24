@@ -34,8 +34,10 @@
 <h2>Example:</h2>
 
  you can send requests by differents tools (Postman, curl or others...) to the routes rigth down
-
+ 
 ![request](https://user-images.githubusercontent.com/91891487/182203608-cf748238-aff7-409c-a234-dc1f818e6486.png)
+
+[Screencast from 09-24-2022 11:13:11 PM.webm](https://user-images.githubusercontent.com/91891487/192119811-529babcb-3dab-45c2-b77f-3e2643601c9a.webm)
 
  <h2>More détails:</h2>
 <h2>More details:</h2>
