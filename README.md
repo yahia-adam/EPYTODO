@@ -1,6 +1,8 @@
 <h1 align="center"> EPYTODO </h1>
 
-<p>build a Todo List</p>
+<p>build a To do List</p>
+
+[Epytodo.webm](https://user-images.githubusercontent.com/91891487/192140892-26b40ce2-c885-4f92-b063-6e0c1895f6c1.webm)
 
 <h2>Description 🌄 </h2>
 <p>The project idea is to build a Todo List.</p>
@@ -37,8 +39,6 @@
  
 ![request](https://user-images.githubusercontent.com/91891487/182203608-cf748238-aff7-409c-a234-dc1f818e6486.png)
 
-[Screencast from 09-24-2022 11:13:11 PM.webm](https://user-images.githubusercontent.com/91891487/192119811-529babcb-3dab-45c2-b77f-3e2643601c9a.webm)
-
- <h2>More détails:</h2>
 <h2>More details:</h2>
+
 [B-WEB-200_Epytodo.pdf](https://github.com/Yahia-Abdchafee-ADAM/EPYTODO/files/9235734/B-WEB-200_Epytodo.pdf)
